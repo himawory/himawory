@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himawory
 - 👀 I’m interested in coding cricket and painting
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and guidewire
 - 💞️ I’m looking to collaborate on ...
 - 📫 please reach me at ellasagaram@gmail.com for anything
 
